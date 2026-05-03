@@ -1,0 +1,77 @@
+{
+  "total_csv_rows": 630000,
+  "clean_review_rows": 629999,
+  "app_count": 11,
+  "columns": [
+    "reviewId",
+    "content",
+    "score",
+    "thumbsUpCount",
+    "at",
+    "replyContent",
+    "repliedAt",
+    "appName"
+  ],
+  "top_apps_by_rating": [
+    {
+      "app": "Alibaba",
+      "avg_score": 4.08,
+      "reviews": 94500
+    },
+    {
+      "app": "Shein",
+      "avg_score": 4.01,
+      "reviews": 40500
+    },
+    {
+      "app": "Aliexpress",
+      "avg_score": 3.83,
+      "reviews": 125999
+    },
+    {
+      "app": "Daraz Online Shopping App",
+      "avg_score": 3.27,
+      "reviews": 54000
+    },
+    {
+      "app": "Lazada",
+      "avg_score": 3.26,
+      "reviews": 54000
+    }
+  ],
+  "lowest_apps_by_rating": [
+    {
+      "app": "Flipkart",
+      "avg_score": 1.75,
+      "reviews": 18000
+    },
+    {
+      "app": "Myntra",
+      "avg_score": 1.99,
+      "reviews": 36000
+    },
+    {
+      "app": "Snapdeal",
+      "avg_score": 2.2,
+      "reviews": 27000
+    },
+    {
+      "app": "Meesho",
+      "avg_score": 2.35,
+      "reviews": 36000
+    },
+    {
+      "app": "Walmart",
+      "avg_score": 2.69,
+      "reviews": 45000
+    }
+  ],
+  "overall_sentiment_percent": {
+    "Positive": 53.2,
+    "Negative": 40.4,
+    "Neutral": 6.4
+  },
+  "largest_app": "Aliexpress",
+  "largest_app_reviews": 125999,
+  "missing_reply_percent": 73.6
+}
